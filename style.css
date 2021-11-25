@@ -1,0 +1,13 @@
+body
+{
+  background-size: cover;
+  background-position:center;
+}
+a{
+  font-size:25px !important;
+  background-color: red;
+  width:400px;
+}
+
+
+
